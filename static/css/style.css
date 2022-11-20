@@ -1,0 +1,22 @@
+
+body {
+    background-color: #35B8FE;
+    }
+
+
+
+
+.jumbotron {
+    background-image: url("../images/banner.PNG");
+    background-size: 40% 100%;
+    text-align: center;
+    
+}
+
+.jumbotron h1{
+    color: #fff;
+}
+
+.jumbotron p{
+    color: #fff;
+}
